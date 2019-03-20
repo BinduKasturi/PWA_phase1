@@ -1,0 +1,44 @@
+{
+  "basics":{
+      "img":"images/stv.jpg",
+      "name": "Bindu",
+      "email":"aaa",
+      "rollno":"19"
+  },
+  "carrier":{
+    "inf":"I wanted to be a full stack developer."
+  },
+  "education":[{
+    "sNo":1,
+    "program":"Btech",
+    "institution":"MITS",
+    "Y_O_P":"2017",
+    "percentage":85
+   },
+   {
+      "sNo":2,
+      "program":"inter",
+      "institution":"SV",
+      "Y_O_P":"2013",
+      "percentage":85
+    },
+    {
+        "sNo":3,
+        "program":"SSC",
+        "institution":"wisdom",
+        "Y_O_P":"2011",
+        "percentage":95
+      }
+    ],
+    "skills":[
+      {
+        "info":"java,c#,c,c++"
+      },
+      {
+        "info":"MySQL,MongoDB"
+      },
+      {
+        "info":"devOps"
+      }
+    ]
+  }
